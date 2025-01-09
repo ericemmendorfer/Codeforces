@@ -1,7 +1,6 @@
 # Codeforces
 
-Start of my competitive programming journey
-
+## Contest Competed In 
 
 Java Scanning Problem Setup 
 
