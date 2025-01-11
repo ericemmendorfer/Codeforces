@@ -1,7 +1,7 @@
 // 158a - Next Round
 
-//Time 342 ms	
-//Size 0 KB
+// Time 342 ms	
+// Memory 0 KB
 
 import java.util.Scanner;
 
